@@ -12,6 +12,7 @@ A console-based inventory manager with a rich, cool terminal UI powered by [Spec
 
 ## Prerequisites
 
+- [Git](https://git-scm.com/install/)
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
 
 ## Run
